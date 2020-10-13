@@ -1,6 +1,0 @@
-sudo passwd root
-sudo cp sources.list sources_backup.list
-sudo vi sources.list
- - address : http://ftp.kaist.ac.kr/raspbian/raspbian
-sudo apt-get update
-sudo apt-get upgrade
