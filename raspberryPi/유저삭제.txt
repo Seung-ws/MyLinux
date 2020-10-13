@@ -1,0 +1,2 @@
+sudo userdel -r 이름
+-r : 디렉터리폴더 삭제 

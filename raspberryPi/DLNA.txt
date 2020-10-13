@@ -1,0 +1,4 @@
+sudo apt-get install minidlna
+sudo vi /etc/minidlna.conf
+ - media_dir= <경로수정>
+sudo service minidlna restart

@@ -1,0 +1,9 @@
+sudo curl -L https://install.pivpn.io | bash
+pivpn add <id>
+
+윈도우CMD
+ - scp pi@<address>:/home/pi/ovpns/* "<윈도우저장폴더경로>"
+
+
+
+
