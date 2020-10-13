@@ -1,0 +1,3 @@
+sudo apt-get install xrdp
+sudo vi /etc/xrdp/xrdp.ini
+ - port : ?????
