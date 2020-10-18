@@ -1,0 +1,4 @@
+sudo apt-get install openjdk-8-jre-headless
+wget https://launchpad.net/~bubbleguuum/+archive/bubbleupnpserver/+files/bubbleupnpserver_0.9-5_all.deb
+sudo dpkg -i bubbleupnpserver_0.9-5_all.deb
+->http://localhost:5850 or https://localhost:58051

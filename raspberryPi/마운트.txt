@@ -1,0 +1,6 @@
+마운트
+1. sudo fdisk -l
+2. 확인=/dev/sda1
+3. sudo mount /dev/sda1 MyDrive
+해제
+1.sudo umount MyDrive
