@@ -1,3 +1,13 @@
+1. installation
 wget -O omv5 https://github.com/OpenMediaVault-Plugin-Developers/installScript/raw/master/install && sudo bash omv5
 sudo omv-firstaid
 ->go network Setting
+
+2. docker install
+3. portainer install
+4. activate ssh
+6. ssh
+   - sudo docker pull homeassistant/home-assistant:stable 
+   - sudo docker run --init -d --name="home-assistant" -e "TZ=Asia/Seoul" -v /home/homeassistant:/config --net=host homeassistant/raspberrypi4-homeassistant:stable
+
+
