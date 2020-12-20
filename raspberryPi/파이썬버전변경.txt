@@ -1,4 +1,4 @@
 python -V
-sudo rm - rf /usr/bin/python
+sudo rm -rf /usr/bin/python
 sudo ln /usr/bin/python3.7 /usr/bin/python
 sudo pip3 install --upgrade pip cs
