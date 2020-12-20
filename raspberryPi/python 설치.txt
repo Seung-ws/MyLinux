@@ -1,0 +1,7 @@
+1.  sudo wget https://www.python.org/ftp/python/3.8.6/Python-3.8.6.tgz
+2.  sudo tar -xvzf Python-3.8.6.tgz
+3.  cd Python-3.8.6.tgz
+4. ./configure
+5. make -j 6
+6. sudo make install
+7. mv ../Python-3.8.6 /usr/bin/python3.8.6
