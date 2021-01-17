@@ -1,0 +1,5 @@
+//전체 삭제
+- dd if=/dev/zero of=/dev/sda
+- dd if=/dev/random of=/dev/sda
+
+/
